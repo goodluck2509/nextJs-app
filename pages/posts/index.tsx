@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
-function hahalolo() {
-  return (
-    <div>hahalolo</div>
-  )
+function PostListPage() {
+  return <div>Post List Page</div>;
 }
 
-
-
-export default hahalolo
+export default PostListPage;
